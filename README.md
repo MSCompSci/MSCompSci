@@ -1,10 +1,12 @@
 # :wave: Hi there!
 
+<br/>
 
+## :computer: I'm a recent UX/HCI graduate with a robotics & engineering background.
 
-## :books: I'm a recent UX/HCI graduate with a background in engineering and robotics.
+:globe_with_meridians: I love designing user interfaces, running research studies, and developing websites.
 
-:computer: I love designing user interfaces, running research studies, and developing websites.
+<br/>
 
 ## My Favorite Tools
 
